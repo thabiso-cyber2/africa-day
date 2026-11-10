@@ -1,0 +1,6 @@
+Home: /
+Our Story: /our-story
+Agenda: /agenda
+Schools Edition: /schools
+Partnerships: /partnerships
+Get involved: /get-involved
